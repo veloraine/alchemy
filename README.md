@@ -42,3 +42,9 @@ pyinstaller --noconsole --onefile --name ReferenceCombiner main.py
 ```
 
 The executable will be created under `dist/ReferenceCombiner.exe`.
+
+## Easier Windows launch
+
+After installing dependencies once, you can launch with:
+
+- Double-click `/home/runner/work/alchemy/alchemy/launch_reference_combiner.bat`
